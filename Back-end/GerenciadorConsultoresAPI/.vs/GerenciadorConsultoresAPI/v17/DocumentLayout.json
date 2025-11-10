@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultoresAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B093E540-E8D9-493A-829F-48AAFAA92871}|GerenciadorConsultoresAPI.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultoresapi\\models\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B093E540-E8D9-493A-829F-48AAFAA92871}|GerenciadorConsultoresAPI.csproj|solutionrelative:models\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B093E540-E8D9-493A-829F-48AAFAA92871}|GerenciadorConsultoresAPI.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultoresapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B093E540-E8D9-493A-829F-48AAFAA92871}|GerenciadorConsultoresAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49362884-3222-4F38-A293-2B0AE3ECB626}|..\\Domain\\Domain.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACCF5B3-C3A2-43C6-A13C-F6129E72D77D}|..\\Application\\Application\\Application.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\application\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consultor.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultoresAPI\\Models\\Consultor.cs",
+              "RelativeDocumentMoniker": "Models\\Consultor.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultoresAPI\\Models\\Consultor.cs",
+              "RelativeToolTip": "Models\\Consultor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:08:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultoresAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultoresAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:08:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:06:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\Application\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Application\\Class1.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\Application\\Application\\Class1.cs",
+              "RelativeToolTip": "..\\Application\\Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:05:37.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
