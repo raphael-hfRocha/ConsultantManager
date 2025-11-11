@@ -1,0 +1,12 @@
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Domain\obj\Debug\net8.0\ref\Domain.dll

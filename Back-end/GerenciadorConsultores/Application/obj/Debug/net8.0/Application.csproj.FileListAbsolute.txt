@@ -10,3 +10,4 @@ C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorCo
 C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Application\obj\Debug\net8.0\Application.pdb
 C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorConsultores", "GerenciadorConsultores\GerenciadorConsultores.csproj", "{C0B8A09B-1E62-4C95-8B08-610CA85A0404}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{F58F16E8-D61C-4125-AB96-504994A9BB07}"
@@ -25,18 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{8EF6D7CE-6399-4B5C-BA4C-5AABADDEE670}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GerenciadorConsultoresAPI", "GerenciadorConsultoresAPI", "{2258029B-26DE-4A96-BFD5-1C626DBA055E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C0B8A09B-1E62-4C95-8B08-610CA85A0404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0B8A09B-1E62-4C95-8B08-610CA85A0404}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0B8A09B-1E62-4C95-8B08-610CA85A0404}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0B8A09B-1E62-4C95-8B08-610CA85A0404}.Release|Any CPU.Build.0 = Release|Any CPU
 		{305954DA-30E4-4E37-B226-C1112BF08FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{305954DA-30E4-4E37-B226-C1112BF08FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{305954DA-30E4-4E37-B226-C1112BF08FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -62,7 +54,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{C0B8A09B-1E62-4C95-8B08-610CA85A0404} = {2258029B-26DE-4A96-BFD5-1C626DBA055E}
 		{305954DA-30E4-4E37-B226-C1112BF08FCF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1E3B561A-B4FC-4466-980A-BC7243FA42CB} = {F58F16E8-D61C-4125-AB96-504994A9BB07}
 		{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF} = {BDAEE712-CAE9-480D-97AF-62F6E6A1EF6D}

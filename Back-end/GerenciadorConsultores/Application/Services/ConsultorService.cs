@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Infrastructure.Repositories;
+using System;
 
 public class ConsultorService
 {

@@ -1,0 +1,6 @@
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json

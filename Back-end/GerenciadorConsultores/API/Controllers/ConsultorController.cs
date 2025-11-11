@@ -9,7 +9,7 @@ namespace API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ConsultorController
+    public class ConsultorController : ControllerBase
     {
         private readonly ConsultorService _consultorService;
 
@@ -18,17 +18,19 @@ namespace API.Controllers
             _consultorService = consultorService;
         }
 
+            /*
         [HttpGet]
         public async Task<ActionResult<List<Consultor>>> getAllConsultores()
         {
-            /*try
+             try
             {
                 var consultores = 
             }
             catch (Exception ex)
             {
 
-            }*/
+            }
         }
+            */
     }
 }

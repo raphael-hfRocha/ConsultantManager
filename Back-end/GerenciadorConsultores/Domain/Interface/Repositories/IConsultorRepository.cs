@@ -12,7 +12,7 @@ namespace Domain.Interface.Repositories
         Task<Consultor> getAllConsultores();
         Task<Consultor> getConsultorById(Int32 id);
         Task AddConsultor(Consultor consultor);
-        Task UpdateConsultor(Consultor consultor);
+        Task UpdateConsultor(Int32 id, Consultor consultor);
         Task DeleteConsultor(Int32 id);
     }
 }
