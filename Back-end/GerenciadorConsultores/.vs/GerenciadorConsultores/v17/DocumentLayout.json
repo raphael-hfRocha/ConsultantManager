@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3B561A-B4FC-4466-980A-BC7243FA42CB}|Application\\Application.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\application\\services\\consultorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3B561A-B4FC-4466-980A-BC7243FA42CB}|Application\\Application.csproj|solutionrelative:application\\services\\consultorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF6D7CE-6399-4B5C-BA4C-5AABADDEE670}|Persistence\\Persistence.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\persistence\\data\\firebaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6D7CE-6399-4B5C-BA4C-5AABADDEE670}|Persistence\\Persistence.csproj|solutionrelative:persistence\\data\\firebaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28B973E-DA0E-49FE-A08C-DADC5992DE75}|Infrastructure\\Infrastructure.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\infrastructure\\repositories\\consultorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28B973E-DA0E-49FE-A08C-DADC5992DE75}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\consultorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\domain\\interface\\repositories\\iconsultorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\repositories\\iconsultorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\domain\\entities\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B1B3ACD-C869-46B9-88F0-3F0D7F8650BF}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305954DA-30E4-4E37-B226-C1112BF08FCF}|API\\API.csproj|c:\\projetos_faculdade\\5\u00BA semestre\\gerenciadorconsultores\\back-end\\gerenciadorconsultores\\api\\controllers\\consultorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305954DA-30E4-4E37-B226-C1112BF08FCF}|API\\API.csproj|solutionrelative:api\\controllers\\consultorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 369,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultorService.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Application\\Services\\ConsultorService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ConsultorService.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Application\\Services\\ConsultorService.cs",
+              "RelativeToolTip": "Application\\Services\\ConsultorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:53:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirebaseConfig.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Persistence\\Data\\FirebaseConfig.cs",
+              "RelativeDocumentMoniker": "Persistence\\Data\\FirebaseConfig.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Persistence\\Data\\FirebaseConfig.cs",
+              "RelativeToolTip": "Persistence\\Data\\FirebaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:51:30.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultorRepository.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Infrastructure\\Repositories\\ConsultorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ConsultorRepository.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Infrastructure\\Repositories\\ConsultorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ConsultorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:50:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IConsultorRepository.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Interface\\Repositories\\IConsultorRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\Repositories\\IConsultorRepository.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Interface\\Repositories\\IConsultorRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\Repositories\\IConsultorRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:48:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consultor.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Entities\\Consultor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Consultor.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Entities\\Consultor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Consultor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:47:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T15:45:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultorController.cs",
+              "DocumentMoniker": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\API\\Controllers\\ConsultorController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ConsultorController.cs",
+              "ToolTip": "C:\\Projetos_Faculdade\\5\u00BA Semestre\\GerenciadorConsultores\\Back-end\\GerenciadorConsultores\\API\\Controllers\\ConsultorController.cs",
+              "RelativeToolTip": "API\\Controllers\\ConsultorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:05:10.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

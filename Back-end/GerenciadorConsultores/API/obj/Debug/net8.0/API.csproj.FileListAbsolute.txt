@@ -1,0 +1,8 @@
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos_Faculdade\5º Semestre\GerenciadorConsultores\Back-end\GerenciadorConsultores\API\obj\Debug\net8.0\API.sourcelink.json
